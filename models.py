@@ -8,3 +8,4 @@ class User(Base):
     email = Column(String)
     nickname = Column(String)
     address = Column(string)
+    print('data')
