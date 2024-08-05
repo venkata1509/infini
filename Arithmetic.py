@@ -1,3 +1,4 @@
+print("Assignments")
 a=10
 b=20
 # Addition(+): Operand1 + Operand2 = Result
