@@ -7,3 +7,4 @@ class User(Base):
     name = Column(String)
     email = Column(String)
     nickname = Column(String)
+    address = Column(string)
